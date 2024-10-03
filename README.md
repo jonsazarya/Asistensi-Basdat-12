@@ -18,7 +18,7 @@
   ```
   git add .
   git commit -m "<pesan commit>"
-  git push origin main
+  git push
   ```
   Note:
   Pesan commit yang dibuat diharapkan sesuai dengan hal yang dilakukan. Seperti "menambah tugas praktikum ..." atau "memperbaiki type di file ..."
